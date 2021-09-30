@@ -1,0 +1,21 @@
+{
+  "name": "kafka-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:producer": "node ./producer/index.js",
+    "start:consumer": "node ./consumer/index.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TarcisioPhilips/kafka-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TarcisioPhilips/kafka-node/issues"
+  },
+  "homepage": "https://github.com/TarcisioPhilips/kafka-node#readme"
+}
